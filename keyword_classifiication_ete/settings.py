@@ -9,5 +9,5 @@ labels = ['Bank account or service', 'Consumer Loan', 'Credit card', \
        'Other financial service', 'Payday loan', 'Prepaid card', \
        'Student loan']
 
-model_file_path = r"C:\Users\srihari_mohan\Documents\PersonalProjects\keywordclassify\KeywordClassification\keyword_model.h5"
-tokenizer_path = r"C:\Users\srihari_mohan\Documents\PersonalProjects\keywordclassify\KeywordClassification\tokenizer.pkl"
+model_file_path = ""
+tokenizer_path = ""
